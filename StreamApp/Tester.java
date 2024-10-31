@@ -1,4 +1,4 @@
-package StreamApp;
+package StreamApp.StreamApp;
 
 import java.io.IOException;
 import java.nio.file.Files;
